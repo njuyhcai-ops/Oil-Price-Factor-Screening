@@ -1,0 +1,7 @@
+﻿factor,reason
+Docx_F1_WTI_Momentum_5d,low_valid_ratio (16.57% < 30%)
+Docx_F3_USD_Inv_Ret,low_valid_ratio (1.30% < 30%)
+Docx_F4_DJIA_Sentiment_10d,low_valid_ratio (16.52% < 30%)
+Oil Consumption Momentum Factor,low_target_ic (|IC|=0.0000 < 0.01)
+PDF_F13_Demand_Structure_Shift_30d,low_target_ic (|IC|=0.0013 < 0.01)
+diesel_price_volatility_factor_v1,low_target_ic (|IC|=-0.0084 < 0.01)

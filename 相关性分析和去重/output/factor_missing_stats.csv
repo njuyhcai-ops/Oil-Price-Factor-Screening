@@ -1,0 +1,24 @@
+﻿factor,valid_count,missing_count,valid_ratio,missing_ratio
+Docx_F1_WTI_Momentum_5d,1247,6278,0.1657,0.8343
+Docx_F2_Brent_WTI_Spread,7525,0,1.0,0.0
+Docx_F3_USD_Inv_Ret,98,7427,0.013,0.987
+Docx_F4_DJIA_Sentiment_10d,1243,6282,0.1652,0.8348
+Docx_F5_Rig_Count_Neg_Growth,7525,0,1.0,0.0
+PDF_F1_Diesel_Vol_Mom_20d,7525,0,1.0,0.0
+PDF_F2_Gas_Vol_Mom_20d,7525,0,1.0,0.0
+PDF_F3_Gas_Crack_Mom_10d,7525,0,1.0,0.0
+PDF_F4_Gas_Demand_Strength_5d,7525,0,1.0,0.0
+PDF_F5_Heating_Vol_Mom_20d,7525,0,1.0,0.0
+PDF_F6_Heating_Seasonal_15d,7525,0,1.0,0.0
+PDF_F7_Heating_Crack_Reversal_10d,7486,39,0.9948,0.0052
+PDF_F8_Heating_Vol_Regime_5d,7485,40,0.9947,0.0053
+PDF_F9_Composite_Product_Mom_20d,7525,0,1.0,0.0
+PDF_F10_Product_Spread_Div_15d,7411,114,0.9849,0.0151
+PDF_F11_Diesel_Gas_Ratio_Mom_10d,7525,0,1.0,0.0
+PDF_F12_Refinery_Margin_Pressure_20d,7392,133,0.9823,0.0177
+PDF_F13_Demand_Structure_Shift_30d,7506,19,0.9975,0.0025
+Refinery_Operating_Profitability_Factor_v1,5833,1692,0.7751,0.2249
+usgc_singapore_margin_spread_factor_v1,5833,1692,0.7751,0.2249
+Oil Consumption Momentum Factor,6624,901,0.8803,0.1197
+diesel_price_volatility_factor_v1,7525,0,1.0,0.0
+diesel_momentum_factor_10d,7525,0,1.0,0.0
